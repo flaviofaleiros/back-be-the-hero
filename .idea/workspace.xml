@@ -25,7 +25,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a055fb9-05d1-4ec7-80b1-1e31d1d54759" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProcFile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586647754892</updated>
-      <workItem from="1586647756356" duration="214000" />
+      <workItem from="1586647756356" duration="888000" />
     </task>
     <servers />
   </component>
