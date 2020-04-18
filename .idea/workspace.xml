@@ -25,7 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a055fb9-05d1-4ec7-80b1-1e31d1d54759" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcFile" beforeDir="false" afterPath="$PROJECT_DIR$/ProcFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/db.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -58,7 +62,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586647754892</updated>
-      <workItem from="1586647756356" duration="888000" />
+      <workItem from="1586647756356" duration="1417000" />
+      <workItem from="1586780621245" duration="597000" />
+      <workItem from="1587240497306" duration="902000" />
     </task>
     <servers />
   </component>
@@ -75,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="696" y="354" width="585" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586647871042">
